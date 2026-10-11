@@ -1,0 +1,8 @@
+# Ignore ESP-IDF build artifacts globally
+**/build/
+**/.settings/
+**/.metadata/
+
+# Ignore local text editor and OS files
+.DS_Store
+Thumbs.db
